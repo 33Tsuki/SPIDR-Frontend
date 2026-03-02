@@ -1,0 +1,7 @@
+# Runtime dependencies for SPIDR-Frontend (tested with Python 3.9+)
+PyQt6>=6.5.0,<7.0
+numpy>=1.22.0,<2.0
+Pillow>=9.2.0
+opencv-python>=4.6.0
+pydicom>=2.4.0
+nibabel>=3.2.2
